@@ -1,5 +1,4 @@
 
-ckerfile
 #
 # https://github.com/dockerfile/ubuntu
 #
